@@ -44,3 +44,7 @@ The candidates results were:
 | Candidate  | % of the vote | Number of votes |
 | ------------- | ------------- | ------------- |
 | Diana DeGette | 73.8%  | 272,892  |
+
+### Challenge Overview
+
+### Challenge Summary
