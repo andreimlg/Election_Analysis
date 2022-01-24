@@ -151,8 +151,8 @@ This information could have been showed with a simple analysis even in an excel 
 
 A few things might be changed in order to use this code for future elections. Some of this are:
 
--Origin of votes, we might want to know if all voters voted through mail, virtually or on the election day, in order to get this answer we can repeat the exercise but obviusly will need the data to analyze it.
+* Origin of votes, we might want to know if all voters voted through mail, virtually or on the election day, in order to get this answer we can repeat the exercise but obviusly will need the data to analyze it.
 
--Presidential Elections, what if we want to use this code for presidential elections. The logic is the same, maybe we want to know who won in each state, for this, we'll need a new column that has this level of detail, going to a county-state relationship. And following the same logic we can perform that level of analysis.
+* Presidential Elections, what if we want to use this code for presidential elections. The logic is the same, maybe we want to know who won in each state, for this, we'll need a new column that has this level of detail, going to a county-state relationship. And following the same logic we can perform that level of analysis.
 
-As we already said, this information for this exercise could have been easily performed by an excel file, but having the code we face biggest data challenges that won't run in an excel file due to the amount of data gathered. This kind of exercises helps us to think in a general way without having specific solutions but rather general solutions!.
+As we already said, this information for this exercise could have been easily performed by an excel file, but having the code we can face biggest data challenges that won't run in an excel file due to the amount of data gathered. This kind of exercises helps us to think in a general way without having specific solutions but rather general solutions!.
