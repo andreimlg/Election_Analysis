@@ -55,6 +55,9 @@ Specifically for the challenge the election commission has requested some additi
 This information will provide the insights to the Colorado Board to validate the results of this election.
 
 ### Challenge Summary
+![terminal screen](https://user-images.githubusercontent.com/31755703/150712067-d5434b45-b73b-4f91-88df-b7848e9bf113.png)
+
+
 
 After running the analysis, it is pretty clear that the county with the highest turnout is Colorado.
 
